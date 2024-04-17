@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/parthgulati"><img src="https://api.daily.dev/devcards/v2/POQH3keAhoFeEd6bnhaOE.png?type=wide&r=xzx" width="652" alt="Parth Gulati's Dev Card"/></a>
+
 # Visitors
 
 [![](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
