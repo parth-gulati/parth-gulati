@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/parthgulati"><img src="https://api.daily.dev/devcards/v2/POQH3keAhoFeEd6bnhaOE.png?type=wide&r=xzx" width="652" alt="Parth Gulati's Dev Card"/></a>
+[![therealpattypan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=therealpattypan&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 # Visitors
 
