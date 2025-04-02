@@ -6,7 +6,7 @@ A Computer Vision and Graphics Masters student at SFU Burnaby
 
 ## About Me
 
-- 🌱 I’m currently learning [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+- 🌱 I’m currently (probably) practicing [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
 - 📝 I regulary write blogs on [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://www.pattypann.wordpress.com)
 
