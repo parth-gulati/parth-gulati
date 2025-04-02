@@ -1,9 +1,5 @@
 [![therealpattypan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=therealpattypan&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
-# Visitors
-
-[![](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
-
 # Hi, I'm parth-gulati
 
 A Computer Vision and Graphics Masters student at SFU Burnaby
