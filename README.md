@@ -1,4 +1,4 @@
-[![therealpattypan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=therealpattypan&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/therealpattypan?theme=dark&font=Asap%20Condensed&ext=heatmap)
 
 # Hi, I'm Parth Gulati
 
